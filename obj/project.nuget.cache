@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fRQ91Fx3NQSefsW1FUlgeocnfKFI/X5k17aJNR0FpnwVxo2lp2zhSaEz8Gy6hIKwj5J7nc/jg47Zo1ai0RtQOg==",
+  "dgSpecHash": "edvEatZRKGO0rofxn9pQD7ezEYWoMK+8pypLK2MUd4MoxYok3Y1vf3aoulwaKt57qCnueBRgg3ZowvmV8SAlcw==",
   "success": true,
-  "projectFilePath": "/home/runner/SlategreyShortDominspector/main.csproj",
+  "projectFilePath": "/home/runner/Palindromo/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

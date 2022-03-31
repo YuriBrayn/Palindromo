@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/SlategreyShortDominspector/main.csproj",
+      "projectUniqueName": "/home/runner/Palindromo/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/SlategreyShortDominspector/main.csproj",
+      "projectPath": "/home/runner/Palindromo/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/SlategreyShortDominspector/obj/",
+      "outputPath": "/home/runner/Palindromo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

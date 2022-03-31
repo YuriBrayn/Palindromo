@@ -4,7 +4,7 @@ using System.Linq;
 class Program {
   public static void Main (string[] args) {
             Console.WriteLine("Digite a palavra ou frase");
-            var text = Console.ReadLine().Replace(" ", "");
+            var text = Console.ReadLine().Replace(" ", "").ToLower();
             if (CheckPalindromo(text)) 
             {
                 Console.WriteLine("1");
